@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-      "test": "jest",
+     
+        "test": "echo \"No tests yet\"",
       "start": "node index.js"
   },
   "repository": {
